@@ -1,7 +1,7 @@
 # 코로나 데이터를 통해 알아보는 다양한 시각적 접근
 
 ## 팀 소개
-logo2_black_f@2x
+[logo2_black_f@2x](https://user-images.githubusercontent.com/57716832/94366975-70e69500-0116-11eb-821b-089995254fe9.png)
 
 * 팀장 : 이경섭
 * 팀원 : 김규란, 박소현, 박준영, 조현중
